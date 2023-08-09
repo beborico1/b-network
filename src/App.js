@@ -13,6 +13,7 @@ import ForumsChatsSupportCommunity from './pages/ForumsChatsSupportCommunity';
 import TermsAndConditionsPage from './pages/TermsAndConditionsPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
 import FAQPage from './pages/FAQPage';
+import './fonts/fonts.css';
 
 const App = () => {
   return (

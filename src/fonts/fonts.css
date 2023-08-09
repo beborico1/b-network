@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Barbie'; /* Puedes nombrar la fuente como desees */
+    src: url('./DollieScript_PersonalUse.ttf') format('truetype'); /* Asegúrate de poner la ruta correcta al archivo .ttf */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Barbie', sans-serif; /* Utiliza el nombre que hayas elegido para la fuente */
+  }
